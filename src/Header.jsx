@@ -1,8 +1,8 @@
-import Navbar from "./Navigation";
+import Navigation from "./Navigation";
 
 const Header = () => (
     <header className="bg-light text-left py-8 fixed-top">
-    <Navbar/>
+    <Navigation/>
     <h3 className="fixed-top m-0 p-3">Company Name</h3>
     
    

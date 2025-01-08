@@ -2,7 +2,7 @@
 import { Link } from "react-router-dom";
 
 const Navigation = () => (
-  <nav className="navbar navbar-expand-lg navbar-light bg-light m-0">
+  <nav className="navbar navbar-expand-lg navbar-light bg-light m-0 fixed-top">
     <div className="container">
       <ul className="navbar-nav ms-auto">
         <li className="nav-item">
